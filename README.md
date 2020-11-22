@@ -1,1 +1,1 @@
-[![Naozumi's github stats](https://github-readme-stats.vercel.app/api?username=Naozumi)](https://github.com/Naozumi520/)
+[![Naozumi's github stats](https://github-readme-stats.vercel.app/api?username=Naozumi520)](https://github.com/Naozumi520/)
