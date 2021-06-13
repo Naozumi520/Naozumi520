@@ -23,7 +23,7 @@ To-do: Learn java -> C
 ## Softwares 🛠
 [![Rider](https://img.shields.io/badge/JetBrains_Rider-DD1265?style=for-the-badge&logo=JetBrains&logoColor=white "Rider")](https://www.jetbrains.com/rider/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "VSCode")](https://code.visualstudio.com/)
-[![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave%20browser&logoColor=white "Brave Browser")](https://brave.com/)
+[![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white "Brave Browser")](https://brave.com/)
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white "Visual Studio")](https://visualstudio.microsoft.com/vs)
 
 ## Skills 🚀
