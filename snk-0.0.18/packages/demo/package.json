@@ -1,0 +1,23 @@
+{
+  "name": "@snk/demo",
+  "version": "1.0.0",
+  "dependencies": {
+    "@snk/compute": "1.0.0",
+    "@snk/draw": "1.0.0"
+  },
+  "devDependencies": {
+    "@types/dat.gui": "0.7.5",
+    "@types/webpack": "4.41.22",
+    "dat.gui": "0.7.7",
+    "html-webpack-plugin": "4.5.0",
+    "ts-loader": "8.0.4",
+    "ts-node": "9.0.0",
+    "webpack": "4.44.2",
+    "webpack-cli": "3.3.12",
+    "webpack-dev-server": "3.11.0"
+  },
+  "scripts": {
+    "build": "webpack",
+    "dev": "webpack-dev-server --port ${PORT-3000}"
+  }
+}
