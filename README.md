@@ -11,6 +11,9 @@ To-do: Learn java -> C
 ![](https://raw.githubusercontent.com/Naozumi520/Naozumi520/main/profile-summary-card-output/nord_bright/0-profile-details.svg)
 ![](https://github-readme-stats.vercel.app/api?username=Naozumi520&custom_title=Stats&title_color=8FBCBB&show_icons=true&icon_color=8FBCBB&bg_color=ECEFF4)
 ***
+
+![snake gif](https://github.com/Naozumi520/Naozumi520/blob/output/N_github-snake.gif)
+
 ## Social links 🤝
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "Discord")](https://discord.com/users/661778480756949052)
 [![Homepage](https://img.shields.io/badge/Homepage-41BDF5?style=for-the-badge&logo=Home%20Assistant%20Community%20Store&logoColor=white "Homepage")](https://naozumi.me)
