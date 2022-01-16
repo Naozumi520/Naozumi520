@@ -16,7 +16,7 @@ To-do: Learn java -> C
 
 ## Social links 🤝
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "Discord")](https://discord.com/users/661778480756949052)
-[![Homepage](https://img.shields.io/badge/Homepage-41BDF5?style=for-the-badge&logo=Home%20Assistant%20Community%20Store&logoColor=white "Homepage")](https://naozumi.me)
+[![Homepage](https://img.shields.io/badge/Homepage-41BDF5?style=for-the-badge&logo=Home%20Assistant%20Community%20Store&logoColor=white "Homepage")](https://naozumi.me/home)
 
 ## Operating systems 💻
 [![MacOS](https://img.shields.io/badge/MacOS-707070?style=for-the-badge&logo=apple&logoColor=white "MacOS")](#)
