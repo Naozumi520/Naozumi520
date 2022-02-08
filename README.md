@@ -40,3 +40,5 @@ To-do: Learn java -> C
 ## Highlighted projects 🌟
 [![Sawayo Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=Naozumi520&repo=Sawayo)](https://github.com/Naozumi520/Sawayo)
 [![DFRContentHost](https://github-readme-stats.vercel.app/api/pin/?username=Naozumi520&repo=mbp16-DFRContentHost)](https://github.com/Naozumi520/mbp16-DFRContentHost)
+
+![](https://komarev.com/ghpvc/?username=Naozumi520&color=ff69b4)
