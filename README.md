@@ -9,7 +9,7 @@ To-do: Learn java -> C
 
 ***
 ![](https://raw.githubusercontent.com/Naozumi520/Naozumi520/main/profile-summary-card-output/nord_bright/0-profile-details.svg)
-![](https://github-readme-stats.vercel.app/api?username=Naozumi520&custom_title=Stats&title_color=8FBCBB&show_icons=true&icon_color=8FBCBB&bg_color=ECEFF4)
+![](https://github-readme-stats.vercel.app/api?username=Naozumi520&custom_title=Stats&title_color=8FBCBB&show_icons=true&icon_color=8FBCBB&bg_color=ECEFF4&include_all_commits=true)
 ***
 
 ![snake gif](https://github.com/Naozumi520/Naozumi520/blob/output/N_github-snake.gif)
