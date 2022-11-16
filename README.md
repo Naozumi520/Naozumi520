@@ -22,6 +22,7 @@ To-do: Learn java -> C
 [![MacOS](https://img.shields.io/badge/MacOS-707070?style=for-the-badge&logo=apple&logoColor=white "MacOS")](#)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white "Windows 10")](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white "Android")](https://www.android.com/)
+[![iOS](https://img.shields.io/badge/iOS-707070?style=for-the-badge&logo=apple&logoColor=white "iOS")](#)
 
 ## Softwares 🛠
 [![Rider](https://img.shields.io/badge/JetBrains_Rider-DD1265?style=for-the-badge&logo=JetBrains&logoColor=white "Rider")](https://www.jetbrains.com/rider/)
