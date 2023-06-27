@@ -42,5 +42,5 @@ To-do: Learn java -> C
 [![Sawayo Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=Naozumi520&repo=Sawayo)](https://github.com/Naozumi520/Sawayo)
 [![DFRContentHost](https://github-readme-stats.vercel.app/api/pin/?username=Naozumi520&repo=mbp16-DFRContentHost)](https://github.com/Naozumi520/mbp16-DFRContentHost)
 
-[![Naozumi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Naozumi520&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Naozumi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naozumi520&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![](https://komarev.com/ghpvc/?username=Naozumi520&color=ff69b4)
