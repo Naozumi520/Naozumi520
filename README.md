@@ -5,7 +5,6 @@ Name: Naozumi
 Job: Student  
 Location: HK  
 Hobby: Coding, explore fun projects.  
-To-do: Learn java -> C
 
 ***
 ![](https://raw.githubusercontent.com/Naozumi520/Naozumi520/main/profile-summary-card-output/nord_bright/0-profile-details.svg)
