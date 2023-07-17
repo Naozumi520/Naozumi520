@@ -1,15 +1,18 @@
 name: SNK_Nao
 
 on:
+  # run automatically every 24 hours
   schedule:
-    - cron: "* */24 * * *"
-
+    - cron: "0 */24 * * *" 
+  
+  # allows to manually run the job at any time
   workflow_dispatch:
-
+  
+  # run on every push on the master branch
   push:
     branches:
     - master
-
+    
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -18,7 +21,7 @@ jobs:
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v2
+        uses: aelassas/snk/svg-only@main
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
