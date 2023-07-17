@@ -11,7 +11,7 @@ Hobby: Coding, explore fun projects.
 ![](https://github-readme-stats.vercel.app/api?username=Naozumi520&custom_title=Stats&title_color=8FBCBB&show_icons=true&icon_color=8FBCBB&bg_color=ECEFF4&include_all_commits=true)
 ***
 
-![snake gif](https://github.com/Naozumi520/Naozumi520/blob/output/N_github-snake.gif)
+![snake gif](https://github.com/Naozumi520/Naozumi520/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ## Social links 🤝
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "Discord")](https://discord.com/users/661778480756949052)
