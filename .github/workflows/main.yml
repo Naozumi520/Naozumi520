@@ -2,7 +2,7 @@ name: SNK_Nao
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "* */24 * * *"
 
   workflow_dispatch:
 
