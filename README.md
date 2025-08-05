@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Naozumi520/Naozumi520/main/profile-summary-card-output/graywhite/0-profile-details.svg" width="700">
+  <img src="https://raw.githubusercontent.com/Naozumi520/Naozumi520/main/profile-summary-card-output/graywhite/0-profile-details.svg" width="800">
 </h1>
 
 ## My Basic Info 📝
