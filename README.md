@@ -31,9 +31,9 @@
 
 # 📊 GitHub Stats:
 <h1 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naozumi520&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true" width="415">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naozumi520&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="328">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Naozumi520&theme=graywhite&hide_border=false" width="753">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naozumi520&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naozumi520&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="315">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Naozumi520&theme=graywhite&hide_border=false" width="725">
 </h1>
 
 ![](https://komarev.com/ghpvc/?username=Naozumi520&color=ff69b4)
