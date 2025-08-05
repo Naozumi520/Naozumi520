@@ -3,10 +3,10 @@
 </h1>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Naozumi520/Naozumi520/main/profile-summary-card-output/graywhite/0-profile-details.svg" width="548">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naozumi520&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="230">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naozumi520&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true" width="368">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Naozumi520&theme=graywhite&hide_border=false" width="410">
+  <img src="https://raw.githubusercontent.com/Naozumi520/Naozumi520/main/profile-summary-card-output/graywhite/0-profile-details.svg" width="553">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naozumi520&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="235">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naozumi520&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true" width="373">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Naozumi520&theme=graywhite&hide_border=false" width="415">
 </h1>
 
 ## My Basic Info 📝
