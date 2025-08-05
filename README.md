@@ -3,8 +3,8 @@
 </h1>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Naozumi520/Naozumi520/main/profile-summary-card-output/graywhite/0-profile-details.svg" width="518">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naozumi520&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="270">
+  <img src="https://raw.githubusercontent.com/Naozumi520/Naozumi520/main/profile-summary-card-output/graywhite/0-profile-details.svg" width="520">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naozumi520&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="268">
   <img src="https://github-readme-stats.vercel.app/api?username=Naozumi520&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true" width="373">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Naozumi520&theme=graywhite&hide_border=false" width="415">
 </h1>
