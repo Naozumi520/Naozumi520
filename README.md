@@ -6,7 +6,7 @@
 ## My Basic Info 📝
 🔭 I'm a HK student<br>
 👯 I’m currently working at AIVOICE LIMITED as a ML scientist<br>
-⚡ My life is powered by cats videos on instagram;<br>
+⚡ My life is powered by cats videos on instagram
 
 ```
  _._     _,-'""`-._
