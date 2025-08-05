@@ -1,41 +1,22 @@
-# Hello there 👋
+<h1 align="center">
+  <br>
+  Naozumi520
+</h1>
 
-## Basic info 📝
-Name: Naozumi  
-Job: Student  
-Location: HK  
-Hobby: Coding, explore fun projects.  
+## My Basic Info 📝
+🔭 I'm a HK student<br>
+👯 I’m currently working at AIVOICE LIMITED as a ML scientists<br>
+⚡ My life is powered by cats videos on instagram
 
-***
-![](https://raw.githubusercontent.com/Naozumi520/Naozumi520/main/profile-summary-card-output/nord_bright/0-profile-details.svg)
-![](https://github-readme-stats.vercel.app/api?username=Naozumi520&custom_title=Stats&title_color=8FBCBB&show_icons=true&icon_color=8FBCBB&bg_color=ECEFF4&include_all_commits=true)
-***
+## 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-![snake gif](https://github.com/Naozumi520/Naozumi520/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Naozumi520&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Naozumi520&theme=graywhite&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naozumi520&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Social links 🤝
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white "Discord")](https://discord.com/users/661778480756949052)
-[![Homepage](https://img.shields.io/badge/Homepage-41BDF5?style=for-the-badge&logo=Home%20Assistant%20Community%20Store&logoColor=white "Homepage")](https://naozumi.me/home)
-
-## Operating systems 💻
-[![MacOS](https://img.shields.io/badge/MacOS-707070?style=for-the-badge&logo=apple&logoColor=white "MacOS")](#)
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white "Windows 10")](#)
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white "Android")](https://www.android.com/)
-[![iOS](https://img.shields.io/badge/iOS-707070?style=for-the-badge&logo=apple&logoColor=white "iOS")](#)
-
-## Softwares 🛠
-[![Rider](https://img.shields.io/badge/JetBrains_Rider-DD1265?style=for-the-badge&logo=JetBrains&logoColor=white "Rider")](https://www.jetbrains.com/rider/)
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white "VSCode")](https://code.visualstudio.com/)
-[![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white "Brave Browser")](https://brave.com/)
-[![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white "Visual Studio")](https://visualstudio.microsoft.com/vs)
-
-## Skills 🚀
-[![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white "C#")](https://microsoft.com)
-[![DotNet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white ".NET")](https://dotnet.microsoft.com/)
-[![Node.js](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=white "Node.js")](https://nodejs.org/)
-
-## Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naozumi520&layout=compact)](https://github.com/Naozumi520)
+![](https://raw.githubusercontent.com/Naozumi520/Naozumi520/main/profile-summary-card-output/graywhite/0-profile-details.svg)
 
 [![Naozumi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naozumi520&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![](https://komarev.com/ghpvc/?username=Naozumi520&color=ff69b4)
