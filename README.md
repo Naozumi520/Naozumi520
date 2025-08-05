@@ -14,6 +14,7 @@
     `-.-' \ )-`( , o o)
           `-    \`_`"'-
 ```
+
 "In ancient times, cats were worshipped as gods; they have not forgotten this." — Terry Pratchett  
 
 ---
@@ -31,6 +32,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naozumi520&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://raw.githubusercontent.com/Naozumi520/Naozumi520/main/profile-summary-card-output/graywhite/0-profile-details.svg)
-
 [![Naozumi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Naozumi520&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![](https://komarev.com/ghpvc/?username=Naozumi520&color=ff69b4)
