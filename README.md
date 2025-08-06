@@ -9,7 +9,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Naozumi520&theme=graywhite&hide_border=false" width="414">
 </h1>
 
-## My Basic Info 📝
+## 📝 Basic Info
 🔭 I'm a HK student<br>
 👯 I’m currently working at AIVOICE LIMITED as a ML scientist<br>
 ⚡ My life is powered by cats videos on instagram
