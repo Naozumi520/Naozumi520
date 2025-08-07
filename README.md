@@ -1,13 +1,10 @@
-<h1 align="center">
-  Naozumi520
-</h1>
-
-<h1 align="center">
+<div align="center">
+  <h1>Naozumi520</h1>
   <img src="https://raw.githubusercontent.com/Naozumi520/Naozumi520/main/profile-summary-card-output/graywhite/0-profile-details.svg" width="520">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naozumi520&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="270">
   <img src="https://github-readme-stats.vercel.app/api?username=Naozumi520&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true" width="377">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Naozumi520&theme=graywhite&hide_border=false" width="414">
-</h1>
+</div>
 
 ## 📝 Basic Info
 🔭 I'm a HK student<br>
