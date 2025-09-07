@@ -1,10 +1,11 @@
 <div align="center">
   <kbd>
-  <h1>Naozumi520</h1>
-  <img src="https://raw.githubusercontent.com/Naozumi520/Naozumi520/main/profile-summary-card-output/graywhite/0-profile-details.svg" width="522">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naozumi520&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="270">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naozumi520&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true" width="377">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Naozumi520&theme=graywhite&hide_border=true" width="414">
+    <h1>Naozumi520</h1>
+    <img src="https://raw.githubusercontent.com/Naozumi520/Naozumi520/main/profile-summary-card-output/graywhite/0-profile-details.svg" width="522">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naozumi520&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="270">
+    <img src="https://github-readme-stats.vercel.app/api?username=Naozumi520&theme=graywhite&hide_border=true&include_all_commits=true&count_private=true" width="377">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=Naozumi520&theme=graywhite&hide_border=true" width="414">
+    <br/><br/>
   </kbd>
 </div>
 
