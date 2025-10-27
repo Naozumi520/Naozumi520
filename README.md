@@ -26,6 +26,7 @@
 ---
 
 ## 🤝 Noticeable Contributions
+- TTS Model creation for [hkilang's Hong Kong Waitau & Hakka Text-to-Speech](https://hkilang.github.io/TTS/).
 - Contributed to [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS?tab=readme-ov-file#thanks-to-all-contributors-for-their-efforts) on Cantonese support.
 - Member of group [hon9kon9ize](https://github.com/hon9kon9ize) with passion on Cantonese, looking for exciting projects to collaborate on!
 
